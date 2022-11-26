@@ -105,6 +105,14 @@ html {
   /* grid-row: 6 / span 3; */
 }
 
+.button {
+  background-color:#0a0a23;
+  color: #fff;
+  border:none;
+  padding: 12px 30px;
+  font-size: 16px;
+}
+
 
 #fcf-form {
   display:block;
